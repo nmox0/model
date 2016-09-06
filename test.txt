@@ -1,2 +1,7 @@
 this is a first file.
+<<<<<<< HEAD
 4row
+=======
+2row
+3row
+>>>>>>> refs/remotes/origin/model2
